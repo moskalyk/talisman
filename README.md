@@ -1,2 +1,8 @@
 # talisman
-Urbit starbank with AAVE
+urbit starbank with AAVE. 
+
+does your bank play jazz?
+
+protec
+
+🧿
