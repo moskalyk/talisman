@@ -1,7 +1,7 @@
 # talisman
 urbit starbank with AAVE. 
 
-does your bank play jazz?
+does your bank play techno?
 
 protec
 
